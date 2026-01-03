@@ -1,8 +1,11 @@
 const result = 5 + 5 + "5";
+console.log(result);
 console.log(typeof result);
 
 const email = "andrew1stecenko@gmail.com";
 console.log(email.includes("@"));
+console.log(email.length);
+
 
 const my = "my";
 const anyName = "name";
